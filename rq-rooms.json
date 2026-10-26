@@ -1,0 +1,80 @@
+{
+ "version": 1,
+ "rooms": [
+  {
+   "id": "tashjee",
+   "name": "تشجيع",
+   "tagline": "كلمة طيبة تسند القلب",
+   "desc": "كلمات قصيرة تشدّ على يدك وتذكّرك بقيمتك وقدرتك.",
+   "emoji": "💛",
+   "color": "#b07a2a",
+   "type": "text",
+   "safety": true,
+   "noSource": true,
+   "askLink": "",
+   "status": "open",
+   "order": 1,
+   "cats": []
+  },
+  {
+   "id": "tahfeez",
+   "name": "تحفيز",
+   "tagline": "خطوة صغيرة اليوم",
+   "desc": "دفعة هادئة للبدء والاستمرار، بلا ضغط ولا مقارنة.",
+   "emoji": "🌅",
+   "color": "#c0603a",
+   "type": "text",
+   "safety": true,
+   "noSource": true,
+   "askLink": "",
+   "status": "open",
+   "order": 2,
+   "cats": []
+  },
+  {
+   "id": "daam",
+   "name": "دعم وقصص",
+   "tagline": "لست وحدك",
+   "desc": "قصص ومواقف ودعم نفسي بالقراءة والسماع، لمن يحتاج من يسانده.",
+   "emoji": "🤝",
+   "color": "#3f7f8c",
+   "type": "text",
+   "safety": true,
+   "noSource": true,
+   "askLink": "",
+   "status": "open",
+   "order": 3,
+   "cats": []
+  },
+  {
+   "id": "nasaih",
+   "name": "نصائح",
+   "tagline": "نصائح عامة للحياة والنفس",
+   "desc": "نصائح عامة عن القلق والنوم والغضب والعلاقات والدراسة وغيرها. هي نصائح عامة وليست علاجاً.",
+   "emoji": "🧭",
+   "color": "#5a6fa0",
+   "type": "text",
+   "safety": true,
+   "noSource": true,
+   "askLink": "",
+   "status": "open",
+   "order": 4,
+   "cats": []
+  },
+  {
+   "id": "jadawil",
+   "name": "جداول وأنظمة",
+   "tagline": "نظّم يومك تهدأ نفسك",
+   "desc": "جداول وأنظمة بسيطة للنوم والمذاكرة والعادات والراحة، قابلة للطباعة.",
+   "emoji": "🗓️",
+   "color": "#5f8a5a",
+   "type": "table",
+   "safety": true,
+   "noSource": true,
+   "askLink": "",
+   "status": "open",
+   "order": 5,
+   "cats": []
+  }
+ ]
+}
